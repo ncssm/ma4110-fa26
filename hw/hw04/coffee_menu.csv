@@ -1,0 +1,295 @@
+,Name,Menu_Item,Cost
+0,Starbucks Reserve,Latte,5.41
+1,Starbucks Reserve,Chai Latte,5.33
+2,Elm Coffee Roasters,Iced Latte,6.84
+3,Elm Coffee Roasters,Chai Latte,5.13
+4,Victrola Coffee,Latte,5.76
+5,Victrola Coffee,Matcha Latte,5.55
+6,Victrola Coffee,Cappuccino,4.8
+7,Victrola Coffee,Espresso,3.65
+8,Victrola Coffee,Drip Coffee,3.32
+9,Lighthouse Roasters,Flat White,6.21
+10,Lighthouse Roasters,Drip Coffee,2.51
+11,Lighthouse Roasters,Cold Brew,6.11
+12,Espresso Vivace,Mocha,5.65
+13,Espresso Vivace,Cold Brew,5.26
+14,Espresso Vivace,Americano,4.04
+15,Espresso Vivace,Espresso,3.34
+16,Espresso Vivace,Matcha Latte,6.03
+17,Storyville Coffee,Chai Latte,5.8
+18,Storyville Coffee,Flat White,6.46
+19,Cafe Vita,Cappuccino,5.37
+20,Cafe Vita,Pour Over,6.26
+21,Cafe Vita,Cold Brew,4.59
+22,Cafe Vita,Drip Coffee,2.84
+23,Cafe Vita,Mocha,5.93
+24,Analog Coffee,Espresso,3.38
+25,Analog Coffee,Cappuccino,5.18
+26,Cherry Street Coffee,Americano,4.51
+27,Cherry Street Coffee,Mocha,6.55
+28,Cherry Street Coffee,Chai Latte,6.03
+29,Cherry Street Coffee,Espresso,3.07
+30,Caffe Ladro,Pour Over,4.91
+31,Caffe Ladro,Chai Latte,5.57
+32,Caffe Ladro,Espresso,3.99
+33,Zoka Coffee,Iced Latte,5.84
+34,Zoka Coffee,Mocha,5.55
+35,Zoka Coffee,Latte,5.47
+36,Herkimer Coffee,Cappuccino,4.82
+37,Herkimer Coffee,Espresso,3.5
+38,Herkimer Coffee,Drip Coffee,3.83
+39,Herkimer Coffee,Mocha,6.46
+40,Milstead & Co,Cold Brew,5.99
+41,Milstead & Co,Americano,4.31
+42,Milstead & Co,Espresso,3.75
+43,Slate Coffee Roasters,Drip Coffee,3.26
+44,Slate Coffee Roasters,Macchiato,4.14
+45,Slate Coffee Roasters,Mocha,5.57
+46,Slate Coffee Roasters,Espresso,3.11
+47,Slate Coffee Roasters,Americano,4.44
+48,La Marzocco Cafe,Drip Coffee,3.29
+49,La Marzocco Cafe,Cappuccino,5.96
+50,La Marzocco Cafe,Macchiato,5.29
+51,La Marzocco Cafe,Iced Latte,5.52
+52,La Marzocco Cafe,Flat White,6.08
+53,Seattle Coffee Works,Matcha Latte,6.09
+54,Seattle Coffee Works,Iced Latte,5.74
+55,Seattle Coffee Works,Mocha,5.5
+56,Seattle Coffee Works,Cappuccino,5.58
+57,Broadcast Coffee,Pour Over,6.68
+58,Broadcast Coffee,Americano,3.95
+59,Broadcast Coffee,Matcha Latte,6.78
+60,Broadcast Coffee,Cappuccino,5.41
+61,Anchorhead Coffee,Mocha,6.93
+62,Anchorhead Coffee,Americano,4.88
+63,Anchorhead Coffee,Pour Over,6.8
+64,Tougo Coffee,Flat White,6.32
+65,Tougo Coffee,Latte,6.25
+66,Tougo Coffee,Cappuccino,4.96
+67,Tougo Coffee,Mocha,5.59
+68,Cafe Cesura,Cappuccino,5.23
+69,Cafe Cesura,Chai Latte,5.1
+70,Cloud City Coffee,Americano,4.92
+71,Cloud City Coffee,Iced Latte,5.75
+72,Cloud City Coffee,Flat White,5.79
+73,Fremont Coffee,Espresso,4.0
+74,Fremont Coffee,Pour Over,6.12
+75,Fremont Coffee,Matcha Latte,6.38
+76,Fremont Coffee,Cold Brew,5.54
+77,Fremont Coffee,Macchiato,4.18
+78,Ada's Technical Books,Cappuccino,5.38
+79,Ada's Technical Books,Mocha,5.85
+80,Ada's Technical Books,Latte,5.33
+81,Fuel Coffee,Chai Latte,5.09
+82,Fuel Coffee,Iced Latte,5.6
+83,Trabant Coffee,Mocha,6.27
+84,Trabant Coffee,Cappuccino,4.92
+85,Kaladi Brothers,Espresso,3.24
+86,Kaladi Brothers,Pour Over,5.68
+87,Kaladi Brothers,Americano,4.11
+88,Kaladi Brothers,Drip Coffee,2.64
+89,Kaladi Brothers,Flat White,5.99
+90,Neptune Coffee,Macchiato,5.01
+91,Neptune Coffee,Matcha Latte,7.47
+92,Neptune Coffee,Flat White,5.15
+93,Neptune Coffee,Latte,5.6
+94,Bauhaus Coffee,Matcha Latte,5.88
+95,Bauhaus Coffee,Cappuccino,5.17
+96,Bauhaus Coffee,Espresso,3.42
+97,Bauhaus Coffee,Iced Latte,5.92
+98,Uptown Espresso,Cappuccino,4.65
+99,Uptown Espresso,Flat White,5.98
+100,Uptown Espresso,Pour Over,5.85
+101,Top Pot Doughnuts,Cappuccino,4.75
+102,Top Pot Doughnuts,Espresso,3.49
+103,Woods Coffee,Macchiato,4.57
+104,Woods Coffee,Latte,6.48
+105,Woods Coffee,Americano,3.9
+106,Zeitgeist Coffee,Cold Brew,4.88
+107,Zeitgeist Coffee,Macchiato,4.33
+108,Zeitgeist Coffee,Pour Over,4.65
+109,Zeitgeist Coffee,Flat White,6.1
+110,Zeitgeist Coffee,Americano,3.59
+111,Makeda Coffee,Latte,5.75
+112,Makeda Coffee,Matcha Latte,7.21
+113,Makeda Coffee,Drip Coffee,2.74
+114,Makeda Coffee,Flat White,6.44
+115,Porchlight Coffee,Americano,4.39
+116,Porchlight Coffee,Cappuccino,5.51
+117,Empire Espresso,Macchiato,4.37
+118,Empire Espresso,Cappuccino,5.39
+119,Empire Espresso,Drip Coffee,3.43
+120,Street Bean Coffee,Iced Latte,6.9
+121,Street Bean Coffee,Drip Coffee,2.81
+122,Street Bean Coffee,Chai Latte,6.07
+123,Street Bean Coffee,Pour Over,5.1
+124,Street Bean Coffee,Mocha,6.09
+125,Lighthouse Roasters Capitol Hill,Flat White,5.69
+126,Lighthouse Roasters Capitol Hill,Mocha,7.0
+127,Lighthouse Roasters Capitol Hill,Cappuccino,5.99
+128,Lighthouse Roasters Capitol Hill,Latte,5.11
+129,Seven Coffee Roasters,Pour Over,6.83
+130,Seven Coffee Roasters,Cold Brew,6.26
+131,Seven Coffee Roasters,Americano,4.82
+132,Olympia Coffee,Cold Brew,5.91
+133,Olympia Coffee,Americano,4.42
+134,Olympia Coffee,Flat White,6.48
+135,Olympia Coffee,Pour Over,6.13
+136,Boon Boona Coffee,Iced Latte,5.95
+137,Boon Boona Coffee,Pour Over,6.16
+138,Conduit Coffee,Cold Brew,5.98
+139,Conduit Coffee,Cappuccino,4.73
+140,Conduit Coffee,Chai Latte,5.42
+141,Elm Coffee Ballard,Chai Latte,6.03
+142,Elm Coffee Ballard,Mocha,6.78
+143,Elm Coffee Ballard,Espresso,3.51
+144,Monorail Espresso,Latte,6.24
+145,Monorail Espresso,Cappuccino,4.57
+146,Monorail Espresso,Iced Latte,6.0
+147,Monorail Espresso,Macchiato,4.2
+148,Little Red Hen,Americano,4.56
+149,Little Red Hen,Chai Latte,5.84
+150,Little Red Hen,Flat White,5.17
+151,Little Red Hen,Pour Over,6.86
+152,Voxx Coffee,Pour Over,5.96
+153,Voxx Coffee,Latte,5.22
+154,Voxx Coffee,Mocha,5.69
+155,Aster Coffee,Mocha,6.52
+156,Aster Coffee,Latte,6.0
+157,Aster Coffee,Matcha Latte,6.21
+158,Aster Coffee,Espresso,3.56
+159,Bellden Cafe,Drip Coffee,3.96
+160,Bellden Cafe,Chai Latte,6.22
+161,Bellden Cafe,Americano,4.82
+162,Bellden Cafe,Espresso,3.02
+163,Bellden Cafe,Iced Latte,6.6
+164,General Porpoise,Matcha Latte,6.03
+165,General Porpoise,Macchiato,5.18
+166,General Porpoise,Iced Latte,5.66
+167,General Porpoise,Espresso,3.87
+168,Elm Coffee Green Lake,Espresso,3.82
+169,Elm Coffee Green Lake,Matcha Latte,7.24
+170,Elm Coffee Green Lake,Flat White,5.33
+171,Elm Coffee Green Lake,Mocha,6.49
+172,Elm Coffee Green Lake,Cold Brew,5.3
+173,Pegasus Coffee,Cappuccino,5.1
+174,Pegasus Coffee,Cold Brew,6.46
+175,Pegasus Coffee,Mocha,6.3
+176,Pegasus Coffee,Pour Over,6.85
+177,Stumptown Coffee,Cold Brew,5.66
+178,Stumptown Coffee,Americano,4.98
+179,Blue Bottle Coffee,Cappuccino,5.15
+180,Blue Bottle Coffee,Drip Coffee,3.59
+181,Joe Bar,Macchiato,4.58
+182,Joe Bar,Drip Coffee,3.36
+183,Joe Bar,Pour Over,5.14
+184,Joe Bar,Cappuccino,5.56
+185,Caffe Fiore,Pour Over,6.22
+186,Caffe Fiore,Matcha Latte,7.38
+187,Verite Coffee,Mocha,6.92
+188,Verite Coffee,Macchiato,5.38
+189,Verite Coffee,Cappuccino,5.43
+190,Sound & Fog,Chai Latte,5.76
+191,Sound & Fog,Cold Brew,5.83
+192,Cherry St Coffee Pike Place,Macchiato,4.19
+193,Cherry St Coffee Pike Place,Chai Latte,5.63
+194,Cherry St Coffee Pike Place,Cold Brew,6.38
+195,Cherry St Coffee Pike Place,Pour Over,6.19
+196,Starbucks Original,Drip Coffee,3.11
+197,Starbucks Original,Matcha Latte,7.17
+198,Starbucks Original,Cold Brew,5.11
+199,Fonte Coffee,Macchiato,4.98
+200,Fonte Coffee,Drip Coffee,3.2
+201,Fonte Coffee,Chai Latte,5.66
+202,Vita Green Lake,Pour Over,6.15
+203,Vita Green Lake,Flat White,5.43
+204,Vita Green Lake,Americano,4.5
+205,Rusty Pelican,Cappuccino,4.84
+206,Rusty Pelican,Espresso,3.2
+207,Rusty Pelican,Iced Latte,5.54
+208,Rusty Pelican,Cold Brew,4.99
+209,Peet's Coffee,Drip Coffee,3.58
+210,Peet's Coffee,Cappuccino,5.08
+211,Peet's Coffee,Flat White,5.6
+212,Peet's Coffee,Macchiato,4.22
+213,Peet's Coffee,Espresso,3.69
+214,Scripted Coffee,Matcha Latte,5.94
+215,Scripted Coffee,Macchiato,5.21
+216,Firehouse Coffee,Latte,5.2
+217,Firehouse Coffee,Pour Over,5.66
+218,Firehouse Coffee,Espresso,3.53
+219,Firehouse Coffee,Cappuccino,5.34
+220,Firehouse Coffee,Flat White,5.48
+221,Caffe Appassionato,Drip Coffee,3.17
+222,Caffe Appassionato,Chai Latte,5.24
+223,Caffe Appassionato,Pour Over,6.65
+224,Caffe Appassionato,Macchiato,4.68
+225,Caffe Appassionato,Iced Latte,6.63
+226,Vashon Coffee,Matcha Latte,6.05
+227,Vashon Coffee,Pour Over,4.69
+228,Vashon Coffee,Flat White,5.43
+229,Vashon Coffee,Espresso,3.27
+230,Wayward Coffee,Pour Over,5.08
+231,Wayward Coffee,Cappuccino,5.54
+232,Wayward Coffee,Americano,4.56
+233,Wayward Coffee,Iced Latte,5.6
+234,Capitol Hill Espresso,Mocha,5.81
+235,Capitol Hill Espresso,Pour Over,5.55
+236,Capitol Hill Espresso,Flat White,6.36
+237,Capitol Hill Espresso,Macchiato,4.88
+238,Capitol Hill Espresso,Latte,6.04
+239,All City Coffee,Flat White,6.28
+240,All City Coffee,Latte,6.43
+241,All City Coffee,Mocha,6.13
+242,All City Coffee,Cold Brew,6.0
+243,All City Coffee,Macchiato,4.82
+244,Queen Anne Coffee,Flat White,5.65
+245,Queen Anne Coffee,Espresso,3.03
+246,Queen Anne Coffee,Cold Brew,5.17
+247,Urban City Coffee,Chai Latte,5.04
+248,Urban City Coffee,Americano,4.09
+249,Urban City Coffee,Flat White,5.85
+250,Urban City Coffee,Matcha Latte,5.55
+251,Urban City Coffee,Pour Over,6.11
+252,Raven Cafe,Flat White,5.39
+253,Raven Cafe,Americano,3.99
+254,Raven Cafe,Latte,5.68
+255,True North Coffee,Matcha Latte,6.0
+256,True North Coffee,Macchiato,4.12
+257,True North Coffee,Cold Brew,4.54
+258,True North Coffee,Chai Latte,5.81
+259,Drip City Coffee,Espresso,3.75
+260,Drip City Coffee,Iced Latte,6.92
+261,Drip City Coffee,Cappuccino,4.8
+262,Drip City Coffee,Latte,5.03
+263,Roast House Coffee,Espresso,3.67
+264,Roast House Coffee,Americano,4.35
+265,Roast House Coffee,Flat White,5.33
+266,Ballard Coffee Works,Matcha Latte,6.71
+267,Ballard Coffee Works,Mocha,6.62
+268,Ballard Coffee Works,Americano,3.67
+269,Ballard Coffee Works,Drip Coffee,3.73
+270,Lighthouse U District,Cappuccino,5.36
+271,Lighthouse U District,Drip Coffee,3.86
+272,Lighthouse U District,Latte,5.56
+273,Lighthouse U District,Cold Brew,6.38
+274,Bean Box Cafe,Cappuccino,4.86
+275,Bean Box Cafe,Drip Coffee,3.55
+276,Bean Box Cafe,Iced Latte,5.95
+277,Revival Coffee,Matcha Latte,7.07
+278,Revival Coffee,Drip Coffee,3.02
+279,Grounded Coffee,Iced Latte,5.52
+280,Grounded Coffee,Mocha,6.13
+281,Grounded Coffee,Cappuccino,5.24
+282,Grounded Coffee,Pour Over,5.58
+283,Grounded Coffee,Chai Latte,5.54
+284,Frelard Coffee,Chai Latte,6.45
+285,Frelard Coffee,Americano,3.91
+286,Frelard Coffee,Macchiato,5.21
+287,Frelard Coffee,Matcha Latte,6.58
+288,Frelard Coffee,Pour Over,5.71
+289,Morning Owl,Chai Latte,6.25
+290,Morning Owl,Drip Coffee,2.63
+291,Morning Owl,Cold Brew,6.26
+292,Morning Owl,Mocha,5.87
+293,Morning Owl,Espresso,3.46
